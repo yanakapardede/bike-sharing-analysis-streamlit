@@ -219,5 +219,3 @@ Dashboard analisis penyewaan sepeda juga telah di-deploy menggunakan Streamlit C
 [Bike Sharing Dashboard App](https://bike-sharing-analysis-app-kjbkxmzbbsnzhkgfqogr6a.streamlit.app/)
 
 ---
-
-**Terima kasih telah mengunjungi repository proyek ini.**
